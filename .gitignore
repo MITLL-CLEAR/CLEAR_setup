@@ -1,0 +1,4 @@
+*.pyc
+InformationFiles/*
+__pycache__
+CondaSetup/.userAgreed

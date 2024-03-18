@@ -1,0 +1,8 @@
+python -m pip install aiohttp==3.8.1
+python -m pip install Flask==2.1.1
+python -m pip install Flask-SocketIO==5.3.4
+python -m pip install python-socketio==5.8.0
+python -m pip install certifi==2021.10.8
+python -m pip install python-engineio==4.5.1
+python -m pip install requests==2.31.0
+python -m pip install socketIO-client==0.7.2
